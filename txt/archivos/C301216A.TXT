@@ -1,0 +1,115 @@
+ Corte de caja: C301216A.TXT
+
+                              LA BODEGA DE PLUTARCO
+
+                      INFORME DE CORTE DE CAJA ELECTRONICA
+------------------------------------------------------------------------------
+
+        Apertura: 30/12/2016  09:57:31 am 
+          Cierre: 30/12/2016   8:09:53 pm
+Usuario Apertura: 001  ESCRIBA AQUI SU NOMBRE                       
+  Usuario Cierre: 001  ESCRIBA AQUI SU NOMBRE                       
+
+
+                               Ventas mostrador
+-------------------------------------------------------------------------------
+ Folio  Fecha        Hora              Importe Pago Referencia        Sts Usr C
+-------------------------------------------------------------------------------
+ 001249 30/12/2016  10:43:23 am $        73.00 EFE                     A  001 1
+ 001250 30/12/2016  10:52:17 am $       111.00 EFE                     A  001 1
+ 001251 30/12/2016  11:20:31 am $        30.00 EFE                     A  001 1
+ 001252 30/12/2016  11:39:17 am $        12.00 EFE                     A  001 1
+ 001253 30/12/2016  11:51:22 am $        17.00 EFE                     A  001 1
+ 001254 30/12/2016  12:05:04 pm $        88.00 EFE                     A  001 1
+ 001255 30/12/2016  12:15:35 pm $       148.00 EFE                     A  001 1
+ 001256 30/12/2016   1:19:36 pm $        10.00 EFE                     A  001 1
+ 001257 30/12/2016   1:38:58 pm $        60.00 EFE                     A  001 1
+ 001258 30/12/2016   1:39:10 pm $        80.00 EFE                     A  001 1
+ 001259 30/12/2016   1:58:16 pm $        10.00 EFE                     A  001 1
+ 001260 30/12/2016   2:10:37 pm $        88.00 EFE                     A  001 1
+ 001261 30/12/2016   3:28:12 pm $        20.00 EFE                     A  001 1
+ 001262 30/12/2016   3:54:25 pm $         6.00 EFE                     A  001 1
+ 001263 30/12/2016   4:18:33 pm $        37.00 EFE                     A  001 1
+ 001264 30/12/2016   4:25:42 pm $        25.00 EFE                     A  001 1
+ 001265 30/12/2016   4:27:36 pm $        20.00 EFE                     A  001 1
+ 001266 30/12/2016   5:32:04 pm $        40.00 EFE                     A  001 1
+ 001267 30/12/2016   5:34:06 pm $        43.00 EFE                     A  001 1
+ 001268 30/12/2016   5:35:33 pm $        20.00 EFE                     A  001 1
+ 001269 30/12/2016   5:42:31 pm $        49.00 EFE                     A  001 1
+ 001270 30/12/2016   5:55:35 pm $        32.00 EFE                     A  001 1
+ 001271 30/12/2016   5:59:39 pm $       218.00 EFE                     A  001 1
+ 001272 30/12/2016   6:00:54 pm $       124.00 EFE                     A  001 1
+ 001273 30/12/2016   6:24:23 pm $       123.00 EFE                     A  001 1
+ 001274 30/12/2016   6:33:14 pm $        27.00 EFE                     A  001 1
+ 001275 30/12/2016   6:43:36 pm $        29.00 EFE                     A  001 1
+ 001276 30/12/2016   7:10:04 pm $        77.00 EFE                     A  001 1
+ 001277 30/12/2016   7:11:32 pm $       259.00 EFE                     A  001 1
+ 001278 30/12/2016   7:19:14 pm $        78.00 EFE                     A  001 1
+ 001279 30/12/2016   7:59:48 pm $        58.00 EFE                     A  001 1
+ 001280 30/12/2016   8:05:00 pm $        58.00 EFE                     A  001 1
+   
+                    Ventas EFE: $     2,070.00
+                                --------------
+           TOTAL VENTAS CAJA 1: $     2,070.00
+
+
+
+                                       
+
+
+   
+
+
+
+                         Ingresos / Egresos No tickets
+ ------------------------------------------------------------------------------
+ Mov Concepto                         Importe Pago Fecha        Hora       Usr
+ ------------------------------------------------------------------------------
+
+
+   Total INGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+    Total EGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+
+
+ -[ RESUMEN CAJA 1 ]-----------------------------------------------------------------
+  Fondo en Caja a la Apertura: $        500.00
+      Ventas con pagos en EFE: $      2,070.00
+             Efectivo en caja: $      2,570.00  *2
+ ------------------------------------------------------------------------------------
+
+ *2 fondo de caja + Ventas en efectivo + pagos en efectivo en CxC + Ingresos en efectivo - Egresos en efectivo 
+
+
+
+
+                                       
+
+
+ === TOTALES GENERALES ==============================================================
+      SUMA DE FONDOS EN CAJAS: $        500.00
+      SUMA VENTAS EN EFECTIVO: $      2,070.00
+  SUMA VENTAS EN OTRAS F.PAGO: $          0.00
+ INGRESOS OTROS CONCEPTOS EFE: $          0.00
+ INGRESOS OTROS CONCEPTOS OTR: $          0.00
+          EGRESOS EN EFECTIVO: $          0.00
+  EGRESOS OTRAS FOMAS DE PAGO: $          0.00
+               COBRADO EN CXC: $          0.00
+                 VENTAS A CXC: $          0.00
+
+    SUMA DE EFECTIVO EN CAJAS: $      2,570.00
+
+
+  Fin de informe...
+
+
+
+
+                                       

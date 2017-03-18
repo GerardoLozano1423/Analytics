@@ -1,0 +1,102 @@
+ Corte de caja: C220117A.TXT
+
+                              LA BODEGA DE PLUTARCO
+
+                      INFORME DE CORTE DE CAJA ELECTRONICA
+------------------------------------------------------------------------------
+
+        Apertura: 22/01/2017  09:54:49 am 
+          Cierre: 22/01/2017   3:02:29 pm
+Usuario Apertura: 001  ESCRIBA AQUI SU NOMBRE                       
+  Usuario Cierre: 001  ESCRIBA AQUI SU NOMBRE                       
+
+
+                               Ventas mostrador
+-------------------------------------------------------------------------------
+ Folio  Fecha        Hora              Importe Pago Referencia        Sts Usr C
+-------------------------------------------------------------------------------
+ 001895 22/01/2017  10:13:48 am $        30.00 EFE                     A  001 1
+ 001896 22/01/2017  10:42:30 am $        32.00 EFE                     A  001 1
+ 001897 22/01/2017  10:48:23 am $        53.00 EFE                     A  001 1
+ 001898 22/01/2017  11:22:39 am $        90.00 EFE                     A  001 1
+ 001899 22/01/2017  12:16:34 pm $        80.00 EFE                     A  001 1
+ 001900 22/01/2017  12:20:07 pm $        41.00 EFE                     A  001 1
+ 001901 22/01/2017  12:25:36 pm $        39.00 EFE                     A  001 1
+ 001902 22/01/2017   1:17:21 pm $        60.00 EFE                     A  001 1
+ 001903 22/01/2017   1:26:46 pm $        35.00 EFE                     A  001 1
+ 001904 22/01/2017   1:30:38 pm $       185.00 EFE                     A  001 1
+ 001905 22/01/2017   1:34:48 pm $        35.00 EFE                     A  001 1
+ 001906 22/01/2017   1:39:22 pm $        30.00 EFE                     A  001 1
+ 001907 22/01/2017   2:23:15 pm $        20.00 EFE                     A  001 1
+ 001908 22/01/2017   2:28:32 pm $        57.00 EFE                     A  001 1
+ 001909 22/01/2017   2:35:06 pm $        99.00 EFE                     A  001 1
+ 001910 22/01/2017   2:41:36 pm $        18.00 EFE                     A  001 1
+ 001911 22/01/2017   2:50:20 pm $        12.00 EFE                     A  001 1
+ 001912 22/01/2017   2:53:28 pm $        25.00 EFE                     A  001 1
+ 001913 22/01/2017   2:57:09 pm $        67.00 EFE                     A  001 1
+   
+                    Ventas EFE: $     1,008.00
+                                --------------
+           TOTAL VENTAS CAJA 1: $     1,008.00
+
+
+
+                                       
+
+
+   
+
+
+
+                         Ingresos / Egresos No tickets
+ ------------------------------------------------------------------------------
+ Mov Concepto                         Importe Pago Fecha        Hora       Usr
+ ------------------------------------------------------------------------------
+
+
+   Total INGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+    Total EGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+
+
+ -[ RESUMEN CAJA 1 ]-----------------------------------------------------------------
+  Fondo en Caja a la Apertura: $        500.00
+      Ventas con pagos en EFE: $      1,008.00
+             Efectivo en caja: $      1,508.00  *2
+ ------------------------------------------------------------------------------------
+
+ *2 fondo de caja + Ventas en efectivo + pagos en efectivo en CxC + Ingresos en efectivo - Egresos en efectivo 
+
+
+
+
+                                       
+
+
+ === TOTALES GENERALES ==============================================================
+      SUMA DE FONDOS EN CAJAS: $        500.00
+      SUMA VENTAS EN EFECTIVO: $      1,008.00
+  SUMA VENTAS EN OTRAS F.PAGO: $          0.00
+ INGRESOS OTROS CONCEPTOS EFE: $          0.00
+ INGRESOS OTROS CONCEPTOS OTR: $          0.00
+          EGRESOS EN EFECTIVO: $          0.00
+  EGRESOS OTRAS FOMAS DE PAGO: $          0.00
+               COBRADO EN CXC: $          0.00
+                 VENTAS A CXC: $          0.00
+
+    SUMA DE EFECTIVO EN CAJAS: $      1,508.00
+
+
+  Fin de informe...
+
+
+
+
+                                       

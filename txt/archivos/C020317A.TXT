@@ -1,0 +1,110 @@
+ Corte de caja: C020317A.TXT
+
+                              LA BODEGA DE PLUTARCO
+
+                      INFORME DE CORTE DE CAJA ELECTRONICA
+------------------------------------------------------------------------------
+
+        Apertura: 02/03/2017  09:04:37 am 
+          Cierre: 02/03/2017   7:24:01 pm
+Usuario Apertura: 001  ESCRIBA AQUI SU NOMBRE                       
+  Usuario Cierre: 001  ESCRIBA AQUI SU NOMBRE                       
+
+
+                               Ventas mostrador
+-------------------------------------------------------------------------------
+ Folio  Fecha        Hora              Importe Pago Referencia        Sts Usr C
+-------------------------------------------------------------------------------
+ 003005 02/03/2017  09:54:35 am $        56.00 EFE                     A  001 1
+ 003006 02/03/2017  10:54:29 am $        37.00 EFE                     A  001 1
+ 003007 02/03/2017  11:46:32 am $        28.00 EFE                     A  001 1
+ 003008 02/03/2017  11:53:29 am $       320.00 EFE                     A  001 1
+ 003009 02/03/2017  12:20:23 pm $        12.00 EFE                     A  001 1
+ 003010 02/03/2017  12:28:02 pm $        25.00 EFE                     A  001 1
+ 003011 02/03/2017  12:28:52 pm $        27.00 EFE                     A  001 1
+ 003012 02/03/2017   1:22:18 pm $        56.00 EFE                     A  001 1
+ 003013 02/03/2017   1:40:41 pm $        24.00 EFE                     A  001 1
+ 003014 02/03/2017   2:42:41 pm $        15.00 EFE                     A  001 1
+ 003015 02/03/2017   2:43:50 pm $        58.00 EFE                     A  001 1
+ 003016 02/03/2017   2:44:26 pm $        50.00 EFE                     A  001 1
+ 003017 02/03/2017   2:44:53 pm $        23.00 EFE                     A  001 1
+ 003018 02/03/2017   2:51:33 pm $        25.00 EFE                     A  001 1
+ 003019 02/03/2017   3:12:06 pm $        15.00 EFE                     A  001 1
+ 003020 02/03/2017   4:22:57 pm $        40.00 EFE                     A  001 1
+ 003021 02/03/2017   5:14:00 pm $        41.00 EFE                     A  001 1
+ 003022 02/03/2017   5:14:25 pm $         9.00 EFE                     A  001 1
+ 003023 02/03/2017   5:16:15 pm $        28.00 EFE                     A  001 1
+ 003024 02/03/2017   5:36:50 pm $        14.00 EFE                     A  001 1
+ 003025 02/03/2017   5:56:33 pm $        43.00 EFE                     A  001 1
+ 003026 02/03/2017   6:10:38 pm $        34.00 EFE                     A  001 1
+ 003027 02/03/2017   6:23:48 pm $        15.00 EFE                     A  001 1
+ 003028 02/03/2017   6:39:06 pm $        20.00 EFE                     A  001 1
+ 003029 02/03/2017   6:44:31 pm $        90.00 EFE                     A  001 1
+ 003030 02/03/2017   6:46:16 pm $        41.00 EFE                     A  001 1
+ 003031 02/03/2017   7:01:09 pm $        43.00 EFE                     A  001 1
+   
+                    Ventas EFE: $     1,189.00
+                                --------------
+           TOTAL VENTAS CAJA 1: $     1,189.00
+
+
+
+                                       
+
+
+   
+
+
+
+                         Ingresos / Egresos No tickets
+ ------------------------------------------------------------------------------
+ Mov Concepto                         Importe Pago Fecha        Hora       Usr
+ ------------------------------------------------------------------------------
+
+
+   Total INGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+    Total EGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+
+
+ -[ RESUMEN CAJA 1 ]-----------------------------------------------------------------
+  Fondo en Caja a la Apertura: $        855.00
+      Ventas con pagos en EFE: $      1,189.00
+             Efectivo en caja: $      2,044.00  *2
+ ------------------------------------------------------------------------------------
+
+ *2 fondo de caja + Ventas en efectivo + pagos en efectivo en CxC + Ingresos en efectivo - Egresos en efectivo 
+
+
+
+
+                                       
+
+
+ === TOTALES GENERALES ==============================================================
+      SUMA DE FONDOS EN CAJAS: $        855.00
+      SUMA VENTAS EN EFECTIVO: $      1,189.00
+  SUMA VENTAS EN OTRAS F.PAGO: $          0.00
+ INGRESOS OTROS CONCEPTOS EFE: $          0.00
+ INGRESOS OTROS CONCEPTOS OTR: $          0.00
+          EGRESOS EN EFECTIVO: $          0.00
+  EGRESOS OTRAS FOMAS DE PAGO: $          0.00
+               COBRADO EN CXC: $          0.00
+                 VENTAS A CXC: $          0.00
+
+    SUMA DE EFECTIVO EN CAJAS: $      2,044.00
+
+
+  Fin de informe...
+
+
+
+
+                                       

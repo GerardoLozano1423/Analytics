@@ -1,0 +1,100 @@
+ Corte de caja: C020117A.TXT
+
+                              LA BODEGA DE PLUTARCO
+
+                      INFORME DE CORTE DE CAJA ELECTRONICA
+------------------------------------------------------------------------------
+
+        Apertura: 02/01/2017  09:09:50 am 
+          Cierre: 02/01/2017   8:00:01 pm
+Usuario Apertura: 001  ESCRIBA AQUI SU NOMBRE                       
+  Usuario Cierre: 001  ESCRIBA AQUI SU NOMBRE                       
+
+
+                               Ventas mostrador
+-------------------------------------------------------------------------------
+ Folio  Fecha        Hora              Importe Pago Referencia        Sts Usr C
+-------------------------------------------------------------------------------
+ 001390 02/01/2017  09:38:21 am $        25.00 EFE                     A  001 1
+ 001391 02/01/2017  10:08:42 am $        45.00 EFE                     A  001 1
+ 001392 02/01/2017  11:28:48 am $        40.00 EFE                     A  001 1
+ 001393 02/01/2017   2:02:16 pm $        10.00 EFE                     A  001 1
+ 001394 02/01/2017   3:44:53 pm $        39.00 EFE                     A  001 1
+ 001395 02/01/2017   4:26:37 pm $        26.00 EFE                     A  001 1
+ 001396 02/01/2017   4:51:17 pm $        20.00 EFE                     A  001 1
+ 001397 02/01/2017   5:26:07 pm $        49.00 EFE                     A  001 1
+ 001398 02/01/2017   5:26:51 pm $        13.00 EFE                     A  001 1
+ 001399 02/01/2017   6:05:07 pm $        34.00 EFE                     A  001 1
+ 001400 02/01/2017   6:20:53 pm $        35.00 EFE                     A  001 1
+ 001401 02/01/2017   7:05:59 pm $       110.00 EFE                     A  001 1
+ 001402 02/01/2017   7:08:56 pm $        23.00 EFE                     A  001 1
+ 001403 02/01/2017   7:11:40 pm $        85.00 EFE                     A  001 1
+ 001404 02/01/2017   7:18:32 pm $       145.00 EFE                     A  001 1
+ 001405 02/01/2017   7:37:12 pm $       133.00 EFE                     A  001 1
+ 001406 02/01/2017   7:50:34 pm $        45.00 EFE                     A  001 1
+   
+                    Ventas EFE: $       877.00
+                                --------------
+           TOTAL VENTAS CAJA 1: $       877.00
+
+
+
+                                       
+
+
+   
+
+
+
+                         Ingresos / Egresos No tickets
+ ------------------------------------------------------------------------------
+ Mov Concepto                         Importe Pago Fecha        Hora       Usr
+ ------------------------------------------------------------------------------
+
+
+   Total INGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+    Total EGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+
+
+ -[ RESUMEN CAJA 1 ]-----------------------------------------------------------------
+  Fondo en Caja a la Apertura: $        500.00
+      Ventas con pagos en EFE: $        877.00
+             Efectivo en caja: $      1,377.00  *2
+ ------------------------------------------------------------------------------------
+
+ *2 fondo de caja + Ventas en efectivo + pagos en efectivo en CxC + Ingresos en efectivo - Egresos en efectivo 
+
+
+
+
+                                       
+
+
+ === TOTALES GENERALES ==============================================================
+      SUMA DE FONDOS EN CAJAS: $        500.00
+      SUMA VENTAS EN EFECTIVO: $        877.00
+  SUMA VENTAS EN OTRAS F.PAGO: $          0.00
+ INGRESOS OTROS CONCEPTOS EFE: $          0.00
+ INGRESOS OTROS CONCEPTOS OTR: $          0.00
+          EGRESOS EN EFECTIVO: $          0.00
+  EGRESOS OTRAS FOMAS DE PAGO: $          0.00
+               COBRADO EN CXC: $          0.00
+                 VENTAS A CXC: $          0.00
+
+    SUMA DE EFECTIVO EN CAJAS: $      1,377.00
+
+
+  Fin de informe...
+
+
+
+
+                                       

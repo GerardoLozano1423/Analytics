@@ -1,0 +1,95 @@
+ Corte de caja: C111216A.TXT
+
+                      ESCRIBA AQUI EL NOMBRE DE SU NEGOCIO
+
+                      INFORME DE CORTE DE CAJA ELECTRONICA
+------------------------------------------------------------------------------
+
+        Apertura: 11/12/2016  10:23:40 am 
+          Cierre: 11/12/2016   2:57:55 pm
+Usuario Apertura: 001  ESCRIBA AQUI SU NOMBRE                       
+  Usuario Cierre: 001  ESCRIBA AQUI SU NOMBRE                       
+
+
+                               Ventas mostrador
+-------------------------------------------------------------------------------
+ Folio  Fecha        Hora              Importe Pago Referencia        Sts Usr C
+-------------------------------------------------------------------------------
+ 000561 11/12/2016  10:41:16 am $        45.00 EFE                     A  001 1
+ 000562 11/12/2016  10:42:49 am $        67.00 EFE                     A  001 1
+ 000563 11/12/2016  11:34:54 am $        44.00 EFE                     A  001 1
+ 000564 11/12/2016  12:14:11 pm $        28.00 EFE                     A  001 1
+ 000565 11/12/2016  12:57:00 pm $        10.00 EFE                     A  001 1
+ 000566 11/12/2016  12:59:07 pm $        29.00 EFE                     A  001 1
+ 000567 11/12/2016   1:07:13 pm $        17.00 EFE                     A  001 1
+ 000568 11/12/2016   1:47:04 pm $       130.00 EFE                     A  001 1
+ 000569 11/12/2016   2:09:58 pm $       100.00 EFE                     A  001 1
+ 000570 11/12/2016   2:10:24 pm $        20.00 EFE                     A  001 1
+ 000571 11/12/2016   2:13:51 pm $        83.00 EFE                     A  001 1
+ 000572 11/12/2016   2:14:12 pm $         2.00 EFE                     A  001 1
+   
+                    Ventas EFE: $       575.00
+                                --------------
+           TOTAL VENTAS CAJA 1: $       575.00
+
+
+
+                                       
+
+
+   
+
+
+
+                         Ingresos / Egresos No tickets
+ ------------------------------------------------------------------------------
+ Mov Concepto                         Importe Pago Fecha        Hora       Usr
+ ------------------------------------------------------------------------------
+
+
+   Total INGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+    Total EGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+
+
+ -[ RESUMEN CAJA 1 ]-----------------------------------------------------------------
+  Fondo en Caja a la Apertura: $        500.00
+      Ventas con pagos en EFE: $        575.00
+             Efectivo en caja: $      1,075.00  *2
+ ------------------------------------------------------------------------------------
+
+ *2 fondo de caja + Ventas en efectivo + pagos en efectivo en CxC + Ingresos en efectivo - Egresos en efectivo 
+
+
+
+
+                                       
+
+
+ === TOTALES GENERALES ==============================================================
+      SUMA DE FONDOS EN CAJAS: $        500.00
+      SUMA VENTAS EN EFECTIVO: $        575.00
+  SUMA VENTAS EN OTRAS F.PAGO: $          0.00
+ INGRESOS OTROS CONCEPTOS EFE: $          0.00
+ INGRESOS OTROS CONCEPTOS OTR: $          0.00
+          EGRESOS EN EFECTIVO: $          0.00
+  EGRESOS OTRAS FOMAS DE PAGO: $          0.00
+               COBRADO EN CXC: $          0.00
+                 VENTAS A CXC: $          0.00
+
+    SUMA DE EFECTIVO EN CAJAS: $      1,075.00
+
+
+  Fin de informe...
+
+
+
+
+                                       

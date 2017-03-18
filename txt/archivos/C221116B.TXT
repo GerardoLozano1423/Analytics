@@ -1,0 +1,99 @@
+ Corte de caja: C221116B.TXT
+
+                      ESCRIBA AQUI EL NOMBRE DE SU NEGOCIO
+
+                      INFORME DE CORTE DE CAJA ELECTRONICA
+------------------------------------------------------------------------------
+
+        Apertura: 22/11/2016  11:23:42 am 
+          Cierre: 22/11/2016   7:58:47 pm
+Usuario Apertura: 001  ESCRIBA AQUI SU NOMBRE                       
+  Usuario Cierre: 001  ESCRIBA AQUI SU NOMBRE                       
+
+
+                               Ventas mostrador
+-------------------------------------------------------------------------------
+ Folio  Fecha        Hora              Importe Pago Referencia        Sts Usr C
+-------------------------------------------------------------------------------
+ 000065 22/11/2016  11:59:26 am $        57.50 EFE                     A  001 1
+ 000066 22/11/2016  12:32:10 pm $        39.00 EFE                     A  001 1
+ 000067 22/11/2016  12:43:37 pm $        14.00 EFE                     A  001 1
+ 000068 22/11/2016  12:47:25 pm $        25.00 EFE                     A  001 1
+ 000069 22/11/2016   1:04:57 pm $        94.00 EFE                     A  001 1
+ 000070 22/11/2016   1:27:25 pm $        17.00 EFE                     A  001 1
+ 000071 22/11/2016   3:08:13 pm $        52.00 EFE                     A  001 1
+ 000072 22/11/2016   3:18:35 pm $        50.00 EFE                     A  001 1
+ 000073 22/11/2016   4:56:25 pm $        15.00 EFE                     A  001 1
+ 000074 22/11/2016   5:06:59 pm $        39.00 EFE                     A  001 1
+ 000075 22/11/2016   5:46:04 pm $       131.00 EFE                     A  001 1
+ 000076 22/11/2016   6:51:20 pm $        39.00 EFE                     A  001 1
+ 000077 22/11/2016   7:05:29 pm $        39.00 EFE                     A  001 1
+ 000078 22/11/2016   7:06:18 pm $        38.50 EFE                     A  001 1
+ 000079 22/11/2016   7:07:42 pm $        49.00 EFE                     A  001 1
+ 000080 22/11/2016   7:25:13 pm $        26.00 EFE                     A  001 1
+   
+                    Ventas EFE: $       725.00
+                                --------------
+           TOTAL VENTAS CAJA 1: $       725.00
+
+
+
+                                       
+
+
+   
+
+
+
+                         Ingresos / Egresos No tickets
+ ------------------------------------------------------------------------------
+ Mov Concepto                         Importe Pago Fecha        Hora       Usr
+ ------------------------------------------------------------------------------
+
+
+   Total INGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+    Total EGRESOS en efectivo: $          0.00
+      En otras formas de pago: $          0.00
+                               ---------------
+                               $          0.00
+
+
+
+ -[ RESUMEN CAJA 1 ]-----------------------------------------------------------------
+  Fondo en Caja a la Apertura: $        500.00
+      Ventas con pagos en EFE: $        725.00
+             Efectivo en caja: $      1,225.00  *2
+ ------------------------------------------------------------------------------------
+
+ *2 fondo de caja + Ventas en efectivo + pagos en efectivo en CxC + Ingresos en efectivo - Egresos en efectivo 
+
+
+
+
+                                       
+
+
+ === TOTALES GENERALES ==============================================================
+      SUMA DE FONDOS EN CAJAS: $        500.00
+      SUMA VENTAS EN EFECTIVO: $        725.00
+  SUMA VENTAS EN OTRAS F.PAGO: $          0.00
+ INGRESOS OTROS CONCEPTOS EFE: $          0.00
+ INGRESOS OTROS CONCEPTOS OTR: $          0.00
+          EGRESOS EN EFECTIVO: $          0.00
+  EGRESOS OTRAS FOMAS DE PAGO: $          0.00
+               COBRADO EN CXC: $          0.00
+                 VENTAS A CXC: $          0.00
+
+    SUMA DE EFECTIVO EN CAJAS: $      1,225.00
+
+
+  Fin de informe...
+
+
+
+
+                                       
